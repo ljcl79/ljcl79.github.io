@@ -11,6 +11,15 @@ body {
   background-position: left;
 }
 
+.text-hero{
+  color: #373a3c;
+}
+
+.heroS{
+  color: white;
+  background-color: #373a3c;
+}
+
 /* Mis trabajos */
 
 #Mis-trabajos .image-top {
